@@ -54,3 +54,4 @@ This project demonstrates strong expertise in:
 * Real-time dynamic UI systems
 * Secure authentication systems
 * Data analysis and financial reporting logic
+![Uploading Transactions.PNG…]()
